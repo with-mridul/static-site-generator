@@ -4,8 +4,8 @@ import shutil
 from copystatic import copy_files_recursive
 
 
-dir_path_static = "../static"
-dir_path_public = "../public"
+dir_path_static = "./static"
+dir_path_public = "./public"
 
 
 def main():
